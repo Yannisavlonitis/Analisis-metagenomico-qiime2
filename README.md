@@ -16,5 +16,5 @@ El pipeline permite:
 
 ## Preparación
 PAra poder ejecutar el script pipeline.sh, antes hay que crear el entorno de la siguiente manera:
-conda create -n qiime2-2023.9 qiime2=2023.9
-conda activate qiime2-2023.9
+- conda create -n qiime2-2023.9 qiime2=2023.9
+- conda activate qiime2-2023.9
