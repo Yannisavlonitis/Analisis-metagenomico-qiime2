@@ -125,7 +125,7 @@ qiime tools export \
 # ------------------------------
 # PASO 8: Diversidad alfa y beta
 # ------------------------------
-echo "Calculando métricas de diversidad (profundidad = 47)..."
+echo "Calculando métricas de diversidad (profundidad = 47)..." # Puedes cambiar la profundidad 
 qiime diversity core-metrics-phylogenetic \
   --i-phylogeny rooted-tree.qza \
   --i-table table.qza \
